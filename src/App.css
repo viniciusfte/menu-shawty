@@ -1,0 +1,24 @@
+.main {
+ width: 100vw;
+ height: 100vh;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.box {
+  width: 43%;
+  height: 60%;
+  background-color:#141414;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+
+}
+
+.headerConfig {
+  padding: 3%;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.021);
+  font-size: 1.5vh;
+}

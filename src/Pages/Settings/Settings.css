@@ -1,0 +1,22 @@
+.mainSettings {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  gap: 1px;
+}
+
+.boxSettings {
+  width: 50%;
+  height: 100%;
+}
+
+.boxConfigs {
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  padding: 1vw;
+  background: rgba(255, 255, 255, 0.011);
+  overflow-y: auto;
+  margin-bottom: 1vh;
+}
+

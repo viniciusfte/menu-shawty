@@ -1,0 +1,11 @@
+.mainTrigger {
+  width: 100%;
+  display: flex;
+  gap: 1px;
+}
+
+.boxTrigger {
+  width: 50%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.011);
+}
